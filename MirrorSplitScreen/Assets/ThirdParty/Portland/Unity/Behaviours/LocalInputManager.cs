@@ -160,7 +160,8 @@ namespace Portland.Unity
 
 			if (player.devices.Count == 0)
 			{
-				Debug.LogWarning("Player joined with no devices.");
+				Debug.LogWarning("Player joined with no devices. Ignoring");
+				return;
 			}
 			Debug.Log($"Successful player input join on {player.devices[0].displayName + (player.devices.Count > 1 ? "+" + player.devices[1].displayName : String.Empty)}");
 
