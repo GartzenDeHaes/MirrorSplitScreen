@@ -1,0 +1,22 @@
+{
+<<<<<<<< HEAD:Assets/ThirdParty/extra-controllers/SteamController/SteamController.asmdef
+    "name": "SteamController",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+========
+    "name": "SimpleWebTransport",
+    "rootNamespace": "",
+    "references": [],
+>>>>>>>> 2cf35829228351dd1a76ed54438f3a13ea823910:Assets/Mirror/Transports/SimpleWeb/SimpleWeb/SimpleWebTransport.asmdef
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
