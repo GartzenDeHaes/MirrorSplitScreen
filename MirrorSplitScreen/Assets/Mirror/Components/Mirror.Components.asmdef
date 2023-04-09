@@ -1,17 +1,11 @@
 {
     "name": "Mirror.Components",
-    "rootNamespace": "",
     "references": [
-<<<<<<< HEAD
-        "GUID:30817c1a0e6d646d99c048fc403f5979",
-        "GUID:75469ad4d38634e559750d17036d5f7c"
-=======
         "GUID:30817c1a0e6d646d99c048fc403f5979"
->>>>>>> 2cf35829228351dd1a76ed54438f3a13ea823910
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
-    "allowUnsafeCode": true,
+    "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
