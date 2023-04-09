@@ -2,4 +2,4 @@
 
 Demo of the new input system local split screen multiplayer with network players.
 
-![Short demo](/media/splitscreen01.gif "Short Demo")
+![Short demo](https://github.com/GartzenDeHaes/MirrorSplitScreen/media/splitscreen01.gif?raw=true)
