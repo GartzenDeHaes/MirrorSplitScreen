@@ -157,6 +157,7 @@ namespace Portland.Unity
 			Debug.Assert(_numPlayers == player.playerIndex);
 
 			_playerInputs[_numPlayers++] = player;
+			player.transform.parent = transform;
 
 			if (player.devices.Count == 0)
 			{
