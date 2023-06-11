@@ -10,6 +10,9 @@ using UnityEngine;
 
 namespace Mirror.Examples.SplitScreen
 {
+	/// <summary>
+	/// Configure the local player object (Tank) with the camera and context.
+	/// </summary>
 	public class PostSpawnConfiguration : MonoBehaviour, INetInputSetup
 	{
 		[SerializeField] Tank TankComponent;
